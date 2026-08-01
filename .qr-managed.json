@@ -1,10 +1,16 @@
 {
   "files": [
-    "(中印）质检部-水质悬浮物的测定重量法单点教程.xlsx",
-    "(中印）质检部-水质氯离子滴定单点教程.xlsx"
+    "(中印）质检部-水质总磷和磷酸根测定单点教程 （2）.xlsx",
+    "(中印）质检部-水质浊度测定单点教程.xlsx",
+    "2026.06.03(中印）质检部-精中EC-300pH计使用单点教程(1).xlsx",
+    "2026.06.03（中印）质检部-水质碱度滴定单点教程.xlsx",
+    "2026.06.15(中印）质检部-定硫仪操作单点教程(2).xlsx"
   ],
   "views": [
-    "view/c00de327bcd585bf/index.html",
-    "view/b9f50c8d1c4a3ab9/index.html"
+    "view/0186f90341a8bbd6/index.html",
+    "view/b43e029a7b4afc1e/index.html",
+    "view/126f1e8f1e60dfba/index.html",
+    "view/98c04db0a146dd65/index.html",
+    "view/ceb645df73c80ee0/index.html"
   ]
 }
