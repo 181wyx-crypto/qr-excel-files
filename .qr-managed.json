@@ -1,8 +1,28 @@
 {
   "files": [
-    "2026.06.15(中印）质检部-定硫仪操作单点教程(2).xlsx"
+    "(中印）质检部-光电直读光谱样品制备单点教程(1).xlsx",
+    "(中印）质检部-气相色谱操作单点教程260618.xlsx",
+    "(中印）质检部-水质总磷和磷酸根测定单点教程 （2）.xlsx",
+    "(中印）质检部-水质悬浮物的测定重量法单点教程.xlsx",
+    "(中印）质检部-水质氯离子滴定单点教程.xlsx",
+    "(中印）质检部-水质浊度测定单点教程.xlsx",
+    "(中印）质检部-煤炭发热量检测单点教程.xlsx",
+    "2026.06.03(中印）质检部-精中EC-300pH计使用单点教程(1).xlsx",
+    "2026.06.03（中印）质检部-水质碱度滴定单点教程.xlsx",
+    "2026.06.15(中印）质检部-定硫仪操作单点教程(2).xlsx",
+    "（中印）质检部-光电直读光谱样品制备标准作业卡.xlsx"
   ],
   "views": [
-    "view/ceb645df73c80ee0/index.html"
+    "view/1c62b5153367969e/index.html",
+    "view/9523f84cb2a702b7/index.html",
+    "view/0186f90341a8bbd6/index.html",
+    "view/c00de327bcd585bf/index.html",
+    "view/b9f50c8d1c4a3ab9/index.html",
+    "view/b43e029a7b4afc1e/index.html",
+    "view/5ba29eba001d6b65/index.html",
+    "view/126f1e8f1e60dfba/index.html",
+    "view/98c04db0a146dd65/index.html",
+    "view/ceb645df73c80ee0/index.html",
+    "view/7a3679afef07dd1c/index.html"
   ]
 }
